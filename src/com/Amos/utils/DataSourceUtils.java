@@ -1,4 +1,4 @@
-package com.itheima.utils;
+package com.Amos.utils;
 import com.alibaba.druid.pool.DruidDataSourceFactory;
 
 import javax.sql.DataSource;

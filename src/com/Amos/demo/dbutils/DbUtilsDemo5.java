@@ -1,6 +1,6 @@
-package com.itheima.demo.dbutils;
+package com.Amos.demo.dbutils;
 
-import com.itheima.utils.DataSourceUtils;
+import com.Amos.utils.DataSourceUtils;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.handlers.ScalarHandler;
 import java.sql.SQLException;

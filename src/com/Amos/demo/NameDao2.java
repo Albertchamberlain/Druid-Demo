@@ -1,7 +1,7 @@
-package com.itheima.demo;
+package com.Amos.demo;
 
-import com.itheima.demo.entity.user;
-import com.itheima.utils.BaseDao;
+import com.Amos.demo.entity.user;
+import com.Amos.utils.BaseDao;
 
 import java.util.List;
 

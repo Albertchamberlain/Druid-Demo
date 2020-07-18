@@ -1,4 +1,4 @@
-package com.itheima.demo.jdbc;
+package com.Amos.demo.jdbc;
 
 
 import java.sql.Connection;

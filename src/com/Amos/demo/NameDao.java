@@ -1,7 +1,7 @@
-package com.itheima.demo;
+package com.Amos.demo;
 
-import com.itheima.utils.BaseDao;
-import com.itheima.demo.entity.user;
+import com.Amos.utils.BaseDao;
+import com.Amos.demo.entity.user;
 
 public class NameDao {
     public static void main(String[] args) {

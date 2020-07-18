@@ -1,7 +1,7 @@
-package com.itheima.demo.dbutils;
+package com.Amos.demo.dbutils;
 
-import com.itheima.demo.entity.user;
-import com.itheima.utils.DataSourceUtils;
+import com.Amos.demo.entity.user;
+import com.Amos.utils.DataSourceUtils;
 import org.apache.commons.dbutils.QueryRunner;
 import org.apache.commons.dbutils.ResultSetHandler;
 import org.apache.commons.dbutils.handlers.BeanHandler;

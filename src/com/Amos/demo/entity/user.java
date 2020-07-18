@@ -1,4 +1,4 @@
-package com.itheima.demo.entity;
+package com.Amos.demo.entity;
 
 public class user {
     private  int id;
